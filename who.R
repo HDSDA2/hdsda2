@@ -4,9 +4,9 @@ str(dat)
 dim(dat)
 summary(dat$Ratio_of_girls_to_boys_in_primary_and_secondary_education)
 
-#WHODAT<-plyr::ldply(dat,as.data.frame)
-#summary(WHODAT)
-require(plyr)
+WHODAT<-plyr::ldply(dat,as.data.frame)
+summary(WHODAT)
+
 head(WHODAT)
 tail(WHODAT)
 
