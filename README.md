@@ -1,2 +1,2 @@
 # Intro
-To archive R projects from local drive to GitHub 
+To archive all R projects and course workfrom local drive to GitHub 
